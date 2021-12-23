@@ -2,10 +2,10 @@
 
 ## Following API Used in this project
 
-customer-test-api.herokuapp.com/customer/api/v1/login
-customer-test-api.herokuapp.com/customer/api/v1/list
-customer-test-api.herokuapp.com/customer/api/v1/get/101
-customer-test-api.herokuapp.com/customer/api/v1/create
+<pre> customer-test-api.herokuapp.com/customer/api/v1/login </pre>
+<pre> customer-test-api.herokuapp.com/customer/api/v1/list </pre>
+<pre> customer-test-api.herokuapp.com/customer/api/v1/get/101 </pre>
+<pre> customer-test-api.herokuapp.com/customer/api/v1/create </pre>
 
 ## How to run this file
 
