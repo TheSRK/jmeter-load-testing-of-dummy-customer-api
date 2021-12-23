@@ -19,5 +19,5 @@ jmeter -n -t demo_customer_api_load_test.jmx -l log.csv -e -o Reports
 
 ##Report file's screenshot
 
-![image](https://user-images.githubusercontent.com/20879031/147299250-7b85d93b-b155-4951-9ed1-850050151600.png)
 
+![jmeter-report](https://user-images.githubusercontent.com/20879031/147299288-c208030a-747b-479d-bbb1-0b3d84de9a8f.jpg)
